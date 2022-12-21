@@ -9,3 +9,5 @@ Vestibulum vel erat sed purus pretium pulvinar et ac eros. Vivamus vitae enim co
 Morbi hendrerit leo sit amet lorem tempor mollis. Donec in diam sed tortor pretium molestie nec sed elit. Proin pharetra in dui sit amet consequat. Proin massa purus, mattis sed mattis nec, fringilla eget augue. Donec eu pretium odio. Ut eleifend mi mi, ac vestibulum metus ultricies at. Donec vel dolor erat. Donec quis diam eget arcu ornare auctor. In aliquet molestie dignissim. Curabitur eget nibh ut velit placerat interdum.
 
 Morbi quis dolor ullamcorper, sollicitudin ex quis, placerat velit. Ut facilisis, justo non condimentum efficitur, justo nulla iaculis diam, eget.
+
+Arigato.
