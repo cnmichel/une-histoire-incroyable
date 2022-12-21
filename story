@@ -6,8 +6,6 @@ Nam posuere accumsan lorem, suscipit ultricies purus porttitor eget. Suspendisse
 
 Vestibulum vel erat sed purus pretium pulvinar et ac eros. Vivamus vitae enim consectetur, eleifend ipsum dapibus, laoreet neque. Etiam quis viverra lectus. Pellentesque eget erat eu erat rhoncus finibus quis in turpis. Donec eu sollicitudin velit, sed tristique orci. Phasellus maximus a eros et luctus. Donec lobortis, orci vel finibus commodo, arcu quam efficitur lorem, quis accumsan odio eros in justo. Vivamus ut vehicula nulla. Pellentesque placerat, magna ut consequat efficitur, augue arcu scelerisque metus, eget luctus arcu est sit amet tellus. In sodales lectus nisl, nec dictum augue placerat auctor. In leo est, tempus eget volutpat a, iaculis ac sem. Aliquam id mauris vitae nisi laoreet pretium. In sed volutpat libero. Aenean varius libero vel mattis cursus. Nam aliquam, ipsum vitae tempor pellentesque, lectus purus auctor elit, sit amet sollicitudin orci ipsum eu enim.
 
-Morbi hendrerit leo sit amet lorem tempor mollis. Donec in diam sed tortor pretium molestie nec sed elit. Proin pharetra in dui sit amet consequat. Proin massa purus, mattis sed mattis nec, fringilla eget augue. Donec eu pretium odio. Ut eleifend mi mi, ac vestibulum metus ultricies at. Donec vel dolor erat. Donec quis diam eget arcu ornare auctor. In aliquet molestie dignissim. Curabitur eget nibh ut velit placerat interdum.
-
 Morbi quis dolor ullamcorper, sollicitudin ex quis, placerat velit. Ut facilisis, justo non condimentum efficitur, justo nulla iaculis diam, eget.
 
 Arigato.
